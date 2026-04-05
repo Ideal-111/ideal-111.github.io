@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiang Li"
-description              : "A master degree candidate at Zhejiang University"
+description              : "A Master Degree candidate at Zhejiang University"
 repository               : "Ideal-111/ideal-111.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiang Li"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Hello Hello"
+  avatar           : "images/wechat.png"
+  bio              : "Half earthly smoke, half poetic grace."
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=XxQlRbkAAAAJ"
   email            : "lx021101@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : https://orcid.org/0009-0008-1665-4777
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
